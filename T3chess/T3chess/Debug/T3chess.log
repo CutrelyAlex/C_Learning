@@ -1,0 +1,8 @@
+﻿  GameTs.c
+  game.c
+f:\myppfccs\engineering\computer,ff\code\c\t3chess\t3chess\game.c(50): warning C4101: “ret”: 未引用的局部变量
+  正在生成代码...
+f:\myppfccs\engineering\computer,ff\code\c\t3chess\t3chess\game.c(125): warning C4716: “Computer_Move”: 必须返回一个值
+f:\myppfccs\engineering\computer,ff\code\c\t3chess\t3chess\game.c(111): warning C4716: “PlayerB_Move”: 必须返回一个值
+f:\myppfccs\engineering\computer,ff\code\c\t3chess\t3chess\game.c(78): warning C4716: “PlayerA_Move”: 必须返回一个值
+  T3chess.vcxproj -> F:\MyPPFCCS\Engineering\Computer,FF\Code\C\T3chess\Debug\T3chess.exe
